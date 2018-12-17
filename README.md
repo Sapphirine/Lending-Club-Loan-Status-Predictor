@@ -9,3 +9,5 @@ To use these notebooks in conjunction with the preprocessing script, one would s
 file paths accordingly.
 
 LCDataDictionary.xlsx is an Excel file that describes the different features in more detail as it pertains to Lending Club.
+
+Test results.ipynb is a Jupyter notebook that visualizes the results from the Modeling notebooks. 
