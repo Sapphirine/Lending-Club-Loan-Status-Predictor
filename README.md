@@ -7,3 +7,5 @@ too large to be uploaded onto git.
 
 To use these notebooks in conjunction with the preprocessing script, one would simply need to change the 
 file paths accordingly.
+
+LCDataDictionary.xlsx is an Excel file that describes the different features in more detail as it pertains to Lending Club.
